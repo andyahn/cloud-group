@@ -1,10 +1,11 @@
 <?php
 	echo "Sejin";
+	echo "<br />";
 	echo "DongGyun Kim";
 	echo "<br />";
-        echo "JaeIl Lee";
+	echo "JaeIl Lee";
 	echo "<br />";
-        echo "Jina Chu";
+	echo "Jina Chu";
 	echo "<br />";
 	echo "JunPhil Ahn";
 	echo "<br />";
