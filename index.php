@@ -1,5 +1,5 @@
 <?php
         echo "Jina Chu";
-        phpinfo();
+	echo "Kang Naeim";
+	phpinfo();
 ?>
-
