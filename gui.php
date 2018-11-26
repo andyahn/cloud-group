@@ -1,5 +1,5 @@
 <?php
-	ehco "soul0372@gmail.com";
+	echo "soul0372@gmail.com";
 	echo "<br />";
     echo "hyop30@gmail.com";
 	echo "<br />";
