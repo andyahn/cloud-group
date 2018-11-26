@@ -10,5 +10,7 @@
 	echo "JunPhil Ahn";
 	echo "<br />";
 	echo "Kang Naeim";
+	echo "<hr />";
+	echo "<hr />";
 	phpinfo();
 ?>
