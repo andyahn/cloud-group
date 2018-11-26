@@ -7,5 +7,4 @@
 	echo "<br />";
 	echo "naim199352@gmail.com";
 	echo "<br />";
-	echo "naim199352@gmail.com";
 ?>
