@@ -1,8 +1,12 @@
 <?php
 	echo "DongGyun Kim";
+	echo "<br />";
         echo "JaeIl Lee";
+	echo "<br />";
         echo "Jina Chu";
+	echo "<br />";
 	echo "JunPhil Ahn";
+	echo "<br />";
 	echo "Kang Naeim";
 	phpinfo();
 ?>
