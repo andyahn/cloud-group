@@ -6,7 +6,10 @@
 <h1>Hello PHP</h1>
 <table>
 <?php
+<<<<<<< HEAD
 
+=======
+>>>>>>> 48e546a2fcc97938b9e48daf9e1b6aa63437c613
 	echo $_SERVER['SERVER_ADDR'];
 	$conn = mysqli_connect(
 	  'db',
@@ -22,7 +25,7 @@
 		}
 		echo '</tr>';
 	}
-?> 
+?>
 </table>
 </body>
 </html>
