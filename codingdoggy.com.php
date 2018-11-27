@@ -6,6 +6,7 @@
 <h1>Hello PHP</h1>
 <table>
 <?php
+	echo $_SERVER['SERVER_ADDR'];
 	$conn = mysqli_connect(
 	  'db',
 	  'cloud',
@@ -20,7 +21,7 @@
 		}
 		echo '</tr>';
 	}
-?> 
+?>
 </table>
 </body>
 </html>
